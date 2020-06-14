@@ -3,7 +3,7 @@ Welcome to my Cloud project page
 <pre>
 <?php
 
-print "ifconfig"
+print 'ifconfig';
 
 ?>
 </pre>
