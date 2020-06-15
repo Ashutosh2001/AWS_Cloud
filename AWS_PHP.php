@@ -1,9 +1,5 @@
-Welcome to my Cloud project page
-<br />
-<pre>
 <?php
-
-print 'ifconfig';
-
+print "<h2>PHP is Fun!</h2>";
+print "Hello world!<br>";
+print "I'm about to learn PHP!";
 ?>
-</pre>
